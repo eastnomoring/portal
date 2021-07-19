@@ -128,6 +128,32 @@ a{
     margin-top: 5px;
 }
 
+.page-nav{
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    /*border: 1px solid black;*/
+    overflow: hidden;
+
+}
+
+.page-nav ul {
+    width: 500px;
+    margin: auto;
+    overflow: hidden;
+}
+
+
+.page-nav ul li{
+    float: left;
+    margin-right: 20px;
+    list-style: none;
+}
+.first-page{
+    border-radius: 50%;
+    background-color: #c5c5c5;
+    padding: 3px 9px;
+}
 
 
 
